@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/@auron/vue.svg?style=flat)](https://npmjs.com/package/@auron/vue)
 [![license](https://img.shields.io/npm/l/@auron/vue.svg)](./LICENSE)
 [![CI](https://github.com/DarkKnight1992/auron/actions/workflows/ci.yml/badge.svg)](https://github.com/DarkKnight1992/auron/actions/workflows/ci.yml)
-[![docs](https://img.shields.io/badge/docs-auronui.dev-42b883.svg)](https://auronui.dev)
+[![storybook](https://img.shields.io/badge/storybook-live-ff4785.svg)](https://darkknight1992.github.io/auron/)
 
 > A multi-framework component library — accessible, beautifully designed UI components powered by Reka UI and Tailwind CSS 4. Starting with Vue 3, with React and Angular coming soon.
 >
@@ -29,8 +29,6 @@ pnpm add -D tailwindcss @tailwindcss/vite
 
 Peer dependencies: `vue@^3.5.0`, `reka-ui@^2.9.0`, `tailwindcss@^4.2.0`.
 
-See the [full installation guide](https://auronui.dev/guide/installation) for Tailwind CSS 4 configuration, CSS imports, and a minimal working example.
-
 ## Quick Example
 
 ```vue
@@ -49,7 +47,7 @@ import { Button, ButtonGroup } from '@auron/vue'
 
 ## Documentation
 
-Full component reference, guides, and live examples at **[auronui.dev](https://auronui.dev)**.
+Browse interactive component stories at **[Storybook](https://darkknight1992.github.io/auron/)**.
 
 ## Components
 
